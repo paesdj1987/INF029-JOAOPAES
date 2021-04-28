@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1619369268 source:c:\users\joão paes\documents\github\inf029-joaopaes\atividades\trabalho 1\funções.c
+	<stdio.h>
+	<stdlib.h>
+
+1619386517 source:c:\users\joão paes\documents\github\inf029-joaopaes\atividades\trabalho 1\joao_paes_2019116017.c
+	<stdio.h>
+
+1619369356 source:c:\users\joão paes\documents\github\inf029-joaopaes\atividades\trabalho 1\q1.c
+	<stdio.h>
+
+1619369233 source:c:\users\joão paes\documents\github\inf029-joaopaes\atividades\trabalho 1\corretor.c
+	<stdio.h>
+	<string.h>
+	"JOAO_PAES_2019116017.h"
+
+1619369807 c:\users\joão paes\documents\github\inf029-joaopaes\atividades\trabalho 1\joao_paes_2019116017.h
+
